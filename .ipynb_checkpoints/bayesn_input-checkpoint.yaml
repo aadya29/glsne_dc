@@ -1,0 +1,12 @@
+mode: fitting
+load_model: BAYESN_1.YAML
+num_chains: 4
+num_warmup: 250
+num_samples: 250
+filters: /global/u2/r/rayliang/LSST_GLSNe/glsne_dc/lsst_filter.yaml
+chain_method: parallel
+fit_method: mcmc
+initialisation: median
+data_table: data_table.txt
+data_root: /global/u2/r/rayliang/LSST_GLSNe/glsne_dc/jolteon_lc
+outputdir: /global/u2/r/rayliang/LSST_GLSNe/glsne_dc/bayesn_outputs

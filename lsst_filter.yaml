@@ -1,0 +1,21 @@
+filters:
+  u_LSST:
+    path: "/global/u2/r/rayliang/LSST_GLSNe/bayesn/bayesn/bayesn-filters/filters/LSST/total_u.dat"
+    magsys: "ab"
+    magzero: 27.5
+  g_LSST:
+    path: "/global/u2/r/rayliang/LSST_GLSNe/bayesn/bayesn/bayesn-filters/filters/LSST/total_g.dat"
+    magsys: "ab"
+    magzero: 27.5
+  r_LSST:
+    path: "/global/u2/r/rayliang/LSST_GLSNe/bayesn/bayesn/bayesn-filters/filters/LSST/total_r.dat"
+    magsys: "ab"
+    magzero: 27.5
+  i_LSST:
+    path: "/global/u2/r/rayliang/LSST_GLSNe/bayesn/bayesn/bayesn-filters/filters/LSST/total_i.dat"
+    magsys: "ab"
+    magzero: 27.5
+  z_LSST:
+    path: "/global/u2/r/rayliang/LSST_GLSNe/bayesn/bayesn/bayesn-filters/filters/LSST/total_z.dat"
+    magsys: "ab"
+    magzero: 27.5
